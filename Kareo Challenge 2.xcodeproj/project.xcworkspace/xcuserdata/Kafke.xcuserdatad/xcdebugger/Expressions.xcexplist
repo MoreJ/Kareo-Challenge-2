@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MasterViewController tableView:cellForRowAtIndexPath:]:MasterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIImage *)[0]-&gt;[0]-&gt;_poster">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
